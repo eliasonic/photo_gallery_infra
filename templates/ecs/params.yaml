@@ -1,0 +1,4 @@
+template-file-path: templates/ecs/ecs.yaml
+parameters:
+  VPCStackName: vpc-stack
+tags: {}
