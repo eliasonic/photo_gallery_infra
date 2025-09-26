@@ -1,0 +1,5 @@
+template-file-path: templates/main/main.yaml
+parameters:
+  GitHubOrg: eliasonic
+  GitHubRepo: ecs_cicd
+tags: {}
