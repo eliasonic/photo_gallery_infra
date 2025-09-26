@@ -1,0 +1,5 @@
+template-file-path: templates/pipeline/pipeline.yaml
+parameters:
+  VPCStackName: vpc-stack
+  ECSStackName: ecs-stack
+tags: {}
